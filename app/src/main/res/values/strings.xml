@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Media Recorder With Pause</string>
 
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="tag_pause">Pause</string>
+    <string name="tag_resume">Resume</string>
+
 </resources>
